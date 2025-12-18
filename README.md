@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajunge15
-- 🌱 I’m currently learning React JS...
+- 🌱 I’m currently working freshing up my Python skills..
 - 📫 How to reach me, find me on LinkedIn :D ...
 
 <!---
