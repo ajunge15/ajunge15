@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajunge15
-- 🌱 I’m currently working freshing up my Python skills..
+- 🌱 I’m currently working on freshing up my Python skills..
 - 📫 How to reach me, find me on LinkedIn :D ...
 
 <!---
